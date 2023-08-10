@@ -1,8 +1,6 @@
-# Real-Time-Market-Data-Dashboard
-A dashboard that displays real-time market data for selected stocks, commodities, ETFs, etc.
+Real-Time Market Data Dashboard
+A comprehensive dashboard that provides real-time market data. This project is divided into several phases, as described below.
 
-
-## The project is divided into five phases
 Phase 1: Project Setup & Planning
 1.1 Backend Setup (Java, Spring Boot)
 Create a New Project: Use Spring Initializr or your preferred IDE (like IntelliJ or Eclipse) to create a new Spring Boot project.
